@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation of osTickdeting System](https://github.com/rwright3rd/osticket-install)
+  - [osTicket: Installation of osTicketing System](https://github.com/rwright3rd/osticket-install)
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/rwright3rd/Configuring-Active-Directory-within-Azure-VMs)
