@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rob, an IT Professional
+<h1>My Name is Rob, and I am looking forward to developing my IT knowledge.
 
 <h2>Information Technology Projects:</h2>
 
