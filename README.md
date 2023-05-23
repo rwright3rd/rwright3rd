@@ -1,4 +1,4 @@
-<h1>My Name is Rob, and I am looking forward to developing my IT knowledge.
+<h1>My Name is Rob, and I am working on developing my IT and Cloud knowledge.
 
 <h2>Information Technology Projects:</h2>
 
